@@ -7,5 +7,5 @@ mais consumiram vinho em 2010.
 
 Para isso, você deverá:
 - ler o arquivo drinks.csv que traz a relação de: cervejas, bebidas religiosas, vinhos e total de litros de álcool puro ordenada pelos países:
-- https://github.com/danhpaiva/files-forclasses/blob/main/csv/alcohol/drinks.csv
+  https://github.com/danhpaiva/files-forclasses/blob/main/csv/alcohol/drinks.csv
 - Ordene a lista por consumo de vinho e não imprima o cabeçalho.
